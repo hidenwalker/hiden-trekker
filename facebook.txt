@@ -99,3 +99,12 @@
 0.0.0.0 z-m-static-waw.xx.fbcdn.net
 0.0.0.0 z-m-static-yyz.xx.fbcdn.net
 0.0.0.0 z-m-static.xx.fbcdn.net
+0.0.0.0 fna.fbcdn.net
+0.0.0.0 keywordsconnect.com
+0.0.0.0 realclick.co.kr
+0.0.0.0 about.co.kr
+0.0.0.0 doubleclick.net
+0.0.0.0 widerplanet.com
+0.0.0.0 ads.ak.facebook.com
+0.0.0.0 innorame.com
+0.0.0.0 ad.daum.net
