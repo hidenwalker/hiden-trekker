@@ -108,3 +108,5 @@
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 innorame.com
 0.0.0.0 ad.daum.net
+0.0.0.0 ad.kakaocorp.com
+0.0.0.0 adnetwork.ad.kakaocorp.com
